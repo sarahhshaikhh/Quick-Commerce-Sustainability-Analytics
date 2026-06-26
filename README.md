@@ -88,22 +88,6 @@ The proposed framework enables organizations to:
 
 ---
 
-## Repository Structure
-
-```text
-├── Data/
-├── Dashboards/
-├── Python/
-├── Images/
-├── Research Paper/
-├── README.md
-```
-
----
-
-
----
-
 ## Author
 
 **Sarah Shaikh**
