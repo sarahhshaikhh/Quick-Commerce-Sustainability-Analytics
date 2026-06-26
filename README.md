@@ -1,15 +1,6 @@
-# Quick-Commerce-Sustainability-Analytics
 # 📊 Quick Commerce Sustainability Analytics
 
 > Business Intelligence, Machine Learning, and Game Theory for Sustainable Decision-Making in Quick-Commerce
-
-## Overview
-
-This repository contains the implementation and supporting resources for the research project **"Business Intelligence and Strategic Equilibrium for Attaining Sustainability in Trending Quick-Commerce Platforms,"** accepted at the **International Conference on ICT for Sustainable Development (ICT4SD 2026).**
-
-The project presents a Business Intelligence framework that evaluates sustainability in quick-commerce operations by combining data analytics, machine learning, and strategic decision-making. The framework measures performance across **economic, environmental, and social** dimensions to help organizations make balanced, data-driven decisions.
-
----
 
 ## Research Objective
 
