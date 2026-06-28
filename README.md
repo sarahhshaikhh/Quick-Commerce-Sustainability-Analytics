@@ -138,22 +138,6 @@ Based on the analysis, organizations can:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Quick-Commerce-Sustainability-Analytics/
-│
-├── data/
-├── notebooks/
-├── dashboard/
-├── models/
-├── images/
-├── report/
-└── README.md
-```
-
----
-
 # 📊 Dashboard
 
 The project includes an interactive Power BI dashboard designed to monitor sustainability performance across warehouse hubs.
@@ -164,7 +148,6 @@ Dashboard improvements are currently in progress to enhance executive reporting 
 
 # 🚀 Future Enhancements
 
-- Publish dashboards to Power BI Service
 - Integrate real-time warehouse data
 - Expand predictive analytics using additional ML algorithms
 - Forecast sustainability metrics over time
@@ -188,5 +171,3 @@ B.Tech – Artificial Intelligence & Data Science
 - Machine Learning
 
 **LinkedIn:** https://www.linkedin.com/in/sarah-shaikh-07a3b3289/
-
-**GitHub:** https://github.com/sarahhshaikhh
