@@ -142,8 +142,6 @@ Based on the analysis, organizations can:
 
 The project includes an interactive Power BI dashboard designed to monitor sustainability performance across warehouse hubs.
 
-Dashboard improvements are currently in progress to enhance executive reporting and business storytelling. Updated dashboard previews will be added in a future release.
-
 ---
 
 # 🚀 Future Enhancements
