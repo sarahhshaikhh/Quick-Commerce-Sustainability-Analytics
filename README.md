@@ -1,12 +1,12 @@
-# 🌱 Quick Commerce Sustainability Analytics
+# Quick Commerce Sustainability Analytics
 
 ### Business Intelligence, Machine Learning, and Game Theory for Sustainable Decision-Making in Quick-Commerce
 
-> 📄 This project forms the basis of the research paper **"Business Intelligence and Strategic Equilibrium for Attaining Sustainability in Trending Quick-Commerce Platforms"**, accepted at the **International Conference on ICT for Sustainable Development (ICT4SD 2026).**
+> This project forms the basis of the research paper **"Business Intelligence and Strategic Equilibrium for Attaining Sustainability in Trending Quick-Commerce Platforms"**, accepted at the **International Conference on ICT for Sustainable Development (ICT4SD 2026).**
 
 ---
 
-# 📌 Business Problem
+# Business Problem
 
 Quick-commerce companies operate in a highly competitive environment where profitability, operational efficiency, and sustainability must be balanced simultaneously. Traditional reporting often evaluates financial, environmental, and social performance independently, making strategic warehouse planning and resource allocation difficult.
 
@@ -14,7 +14,7 @@ This project develops a Business Intelligence framework that integrates operatio
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The project aims to:
 
@@ -26,9 +26,9 @@ The project aims to:
 
 ---
 
-# 🌍 Sustainability Framework
+# Sustainability Framework
 
-## 💰 Economic Sustainability
+## Economic Sustainability
 
 - Warehouse Profitability
 - Delivery Efficiency
@@ -38,7 +38,7 @@ The project aims to:
 
 ---
 
-## 🌱 Environmental Sustainability
+## Environmental Sustainability
 
 - Carbon Emissions (CO₂)
 - Eco-Efficiency
@@ -47,7 +47,7 @@ The project aims to:
 
 ---
 
-## 👥 Social Sustainability
+## Social Sustainability
 
 - Delivery Partner Satisfaction
 - Workforce Performance
@@ -55,7 +55,7 @@ The project aims to:
 
 ---
 
-# 📊 Methodology
+# Methodology
 
 The project follows an end-to-end Business Intelligence workflow:
 
@@ -70,7 +70,7 @@ The project follows an end-to-end Business Intelligence workflow:
 
 ---
 
-# 🤖 Machine Learning
+# Machine Learning
 
 ## Random Forest Regression
 
@@ -88,7 +88,7 @@ Applied to segment warehouse hubs based on sustainability and operational perfor
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 The analysis enabled the following insights:
 
@@ -100,7 +100,7 @@ The analysis enabled the following insights:
 
 ---
 
-# 💼 Business Recommendations
+# Business Recommendations
 
 Based on the analysis, organizations can:
 
@@ -112,7 +112,7 @@ Based on the analysis, organizations can:
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ### Business Intelligence
 
@@ -138,13 +138,13 @@ Based on the analysis, organizations can:
 
 ---
 
-# 📊 Dashboard
+# Dashboard
 
 The project includes an interactive Power BI dashboard designed to monitor sustainability performance across warehouse hubs.
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Integrate real-time warehouse data
 - Expand predictive analytics using additional ML algorithms
@@ -152,20 +152,3 @@ The project includes an interactive Power BI dashboard designed to monitor susta
 - Enhance strategic recommendations using advanced optimization techniques
 
 ---
-
-
-# 👩‍💻 Author
-
-**Sarah Shaikh**
-
-B.Tech – Artificial Intelligence & Data Science
-
-### Areas of Interest
-
-- Business Analytics
-- Business Intelligence
-- Sustainability Analytics
-- Data Analytics
-- Machine Learning
-
-**LinkedIn:** https://www.linkedin.com/in/sarah-shaikh-07a3b3289/
